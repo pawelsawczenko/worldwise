@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Great architecture!",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-01-12T14:52:24.857Z",
+      "notes": "Too many people",
+      "position": {
+        "lat": "35.68184060244455",
+        "lng": "139.76943969726565"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Vancouver",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-01-12T14:53:44.577Z",
+      "notes": "The mountains in the back!",
+      "position": {
+        "lat": "49.279452550408074",
+        "lng": "-123.12343597412111"
+      },
+      "id": 98443200
+    }
+  ]
+}
